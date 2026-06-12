@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/ed5YUNP0/raw"))()
+loadstring(game:HttpGet("https://sb-dashboard-nine.vercel.app/api/load?script=Elianahubv3"))()
